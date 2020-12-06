@@ -9,6 +9,6 @@ public class BaiTest {
         System.out.println("nihao");
         System.out.println("woyehenhao1");
         System.out.println("bbb");
-        System.out.println("cc");
+        System.out.println("000");
     }
 }
